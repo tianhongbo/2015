@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+/Users/tianhongbo/git/365days/0106/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3445126929.index
+2283197982.index
+3354524834.index
+180614749.index
+1160981829.index
+2613934622.index

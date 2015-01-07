@@ -1,0 +1,31 @@
+package com.tutorialspoint;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.servlet.ModelAndView;
+import org.springframework.ui.ModelMap;
+import org.springframework.context.annotation.ComponentScan;
+
+@ComponentScan
+@Controller
+public class StudentController {
+
+   @RequestMapping(value = "/student", method = RequestMethod.GET)
+   public ModelAndView student() {
+	   System.out.println("This student method for GET");
+      return new ModelAndView("student", "command", new Student());
+   }
+   
+   @RequestMapping(value = "/addStudent", method = RequestMethod.POST)
+   public String addStudent(@ModelAttribute("student") Student student, 
+   ModelMap model) {
+	   System.out.println("This is AddStudent method for POST");
+      model.addAttribute("name", student.getName());
+      model.addAttribute("age", student.getAge());
+      model.addAttribute("id", student.getId());
+      
+      return "result";
+   }
+}

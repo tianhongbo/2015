@@ -10,3 +10,5 @@
 1420522601137	Move 'MySpringWebDemo-servlet.xml' to 'WebContent'
 1420522801905	Move 2 resources to 'WEB-INF'
 1420522874470	Rename resource 'Web.xml'
+1420556942459	Move 'jsp' to 'WebContent'
+1420557100346	Move 'jsp' to 'WEB-INF'

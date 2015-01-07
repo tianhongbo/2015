@@ -1,0 +1,5 @@
+INDEX VERSION 1.127
+/Users/tianhongbo/git/365days/0106/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3019353362.index
+/HelloWeb/src
+/Users/tianhongbo/git/365days/0106/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/699820543.index
+/HelloWeb/src
