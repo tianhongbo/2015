@@ -7,7 +7,7 @@
     <display-name>Spring MVC Form Handling</display-name>
  
     <servlet>
-        <servlet-name>HelloWeb</servlet-name>
+        <servlet-name>MyWeb</servlet-name>
         <servlet-class>
            org.springframework.web.servlet.DispatcherServlet
         </servlet-class>
@@ -15,8 +15,11 @@
     </servlet>
 
     <servlet-mapping>
-        <servlet-name>HelloWeb</servlet-name>
-        <url-pattern>/</url-pattern>
+        <servlet-name>MyWeb</servlet-name>
+        <url-pattern>/student/*</url-pattern>
     </servlet-mapping>
- 
+
+     <welcome-file-list>
+        <welcome-file>/</welcome-file>
+    </welcome-file-list> 
 </web-app>

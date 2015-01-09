@@ -12,12 +12,19 @@ import org.springframework.context.annotation.ComponentScan;
 @Controller
 public class StudentController {
 
+	/*
    @RequestMapping(value = "/student", method = RequestMethod.GET)
    public ModelAndView student() {
 	   System.out.println("This student method for GET");
       return new ModelAndView("student", "command", new Student());
-   }
-   
+	
+   }*/
+
+	   @RequestMapping(value = "/student", method = RequestMethod.GET)
+	   public void student() {
+		   System.out.println("This student method for GET");
+	   }
+	
    @RequestMapping(value = "/addStudent", method = RequestMethod.POST)
    public String addStudent(@ModelAttribute("student") Student student, 
    ModelMap model) {

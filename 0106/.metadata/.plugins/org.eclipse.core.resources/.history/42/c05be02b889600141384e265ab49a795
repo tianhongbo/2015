@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<p>
+This is Sophia! <br>
+<img src = "sophia.jpg" alt = "Sophia" style = "width:360px;height:480px">
+</p>
+
+</body>
+</html>
