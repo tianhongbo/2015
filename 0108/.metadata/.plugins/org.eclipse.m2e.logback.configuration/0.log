@@ -32,3 +32,23 @@
 2015-01-08 21:24:40,669 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tianhongbo/git/365days/0108/polymorphism/src/main/resources
 2015-01-08 21:24:40,672 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2015-01-08 21:24:40,672 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tianhongbo/git/365days/0108/polymorphism/src/test/resources
+2015-01-09 00:16:07,540 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-09 00:16:07,556 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tianhongbo/git/365days/0108/polymorphism/src/main/resources
+2015-01-09 00:16:07,558 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-09 00:16:07,559 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tianhongbo/git/365days/0108/polymorphism/src/test/resources
+2015-01-09 00:20:36,422 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-09 00:20:36,422 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tianhongbo/git/365days/0108/polymorphism/src/main/resources
+2015-01-09 00:20:36,423 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-09 00:20:36,424 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tianhongbo/git/365days/0108/polymorphism/src/test/resources
+2015-01-09 00:21:19,189 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-09 00:21:19,189 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tianhongbo/git/365days/0108/polymorphism/src/main/resources
+2015-01-09 00:21:19,191 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-09 00:21:19,191 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tianhongbo/git/365days/0108/polymorphism/src/test/resources
+2015-01-09 00:29:21,685 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-09 00:29:21,685 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tianhongbo/git/365days/0108/polymorphism/src/main/resources
+2015-01-09 00:29:21,686 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-09 00:29:21,687 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tianhongbo/git/365days/0108/polymorphism/src/test/resources
+2015-01-09 00:29:58,730 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-09 00:29:58,730 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tianhongbo/git/365days/0108/polymorphism/src/main/resources
+2015-01-09 00:29:58,731 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-09 00:29:58,732 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tianhongbo/git/365days/0108/polymorphism/src/test/resources
