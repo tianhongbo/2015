@@ -1,0 +1,5 @@
+package com.scott.io;
+
+public class Echo {
+
+}
