@@ -1,0 +1,16 @@
+package com.scott.junit;
+
+import static org.junit.Assert.*;
+import junit.framework.Assert;
+
+import org.junit.Test;
+
+public class MyMultiplyTest {
+
+	@Test
+	public void testMultiply() {
+		Assert.assertEquals(200, new MyMultiply(100,1).multiply());
+		fail("Not yet implemented");
+	}
+
+}
