@@ -1,0 +1,9 @@
+package mysql;
+
+public class HomeController {
+	 
+    @Autowired
+    private ContactDAO contactDAO;
+ 
+    // handler methods go here...
+}
