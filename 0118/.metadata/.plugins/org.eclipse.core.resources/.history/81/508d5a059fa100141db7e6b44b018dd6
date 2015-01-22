@@ -1,0 +1,27 @@
+package hello;
+
+public class FBGraphAPI {
+	/*
+	 * The following are one simple example of FB Graph Search
+   "id": "1201894",
+   "first_name": "Jie",
+   "gender": "male",
+   "last_name": "Chen",
+   "link": "https://www.facebook.com/jiechen",
+   "locale": "en_GB",
+   "name": "Jie Chen",
+   "username": "jiechen"
+	 */
+	
+	private int id; //id": "1201894",
+	private String firstName; //   "first_name": "Jie",
+	private Boolean gender;//    "gender": "male",
+	private String lastName;//   "last_name": "Chen",
+	private String link;//   "link": "https://www.facebook.com/jiechen",
+	private String local;//   "locale": "en_GB",
+	private String name;//   "name": "Jie Chen",
+	private String username;//   "username": "jiechen"
+	
+	
+
+}

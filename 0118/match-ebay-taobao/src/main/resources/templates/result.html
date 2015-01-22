@@ -5,9 +5,14 @@
     <meta  http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 </head>
 <body>
+    <div align="center">
         <h1>Result</h1>
-    <p th:text="'id: ' + ${greeting.id}" />
-    <p th:text="'content: ' + ${greeting.content}" />
-    <a href="/greeting">Submit annother message</a>
+    <p th:text="'Id: ' + ${student.id}" />
+    <p th:text="'Name: ' + ${student.name}" />
+    <p th:text="'E-mail: ' + ${student.email}" />
+    <p th:text="'Address: ' + ${student.address}" />
+    <p th:text="'Telephone: ' + ${student.telephone}" />
+    <a href="/add">Add another student</a>
+    </div>
 </body>
 </html>

@@ -1,0 +1,57 @@
+package hello;
+
+import java.sql.SQLException;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.jdbc.core.JdbcTemplate;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestParam;
+
+@Controller
+public class GreetingController {
+	
+	@Autowired
+	private MySQLConnection myConnection;
+	private JdbcTemplate jdbcTemplate;
+	
+	public GreetingController() throws SQLException {
+//		this.jdbcTemplate = myConnection.getMySQLConnection();
+		System.out.println("the myConnection bean is: " + myConnection);
+		System.out.println("the MySQLConnection is: " + jdbcTemplate);
+	}
+	
+	@RequestMapping(value="/add", method=RequestMethod.GET)
+	public String greetingForm(Model model) {
+		model.addAttribute("student", new Contact());
+		return "greeting";
+	}
+	
+	@RequestMapping(value="/add", method=RequestMethod.POST)
+	public String greetingSubmit(@ModelAttribute Contact contact, Model model) {
+		// Insert this form into database
+		System.out.println("Insert to database");
+	    if (contact.getId() > 0) {
+	        // update
+	        String sql = "UPDATE contact SET name=?, email=?, address=?, "
+	                    + "telephone=? WHERE contact_id=?";
+	        jdbcTemplate.update(sql, contact.getName(), contact.getEmail(),
+	                contact.getAddress(), contact.getTelephone(), contact.getId());
+	    } else {
+	        // insert
+	        String sql = "INSERT INTO contact (name, email, address, telephone)"
+	                    + " VALUES (?, ?, ?, ?)";
+	        jdbcTemplate.update(sql, contact.getName(), contact.getEmail(),
+	                contact.getAddress(), contact.getTelephone());
+	    }
+				
+		model.addAttribute("student", contact);
+		System.out.println("id = " + contact.getId() + "name = " + contact.getName());
+		
+		return "result";
+	}
+}
+

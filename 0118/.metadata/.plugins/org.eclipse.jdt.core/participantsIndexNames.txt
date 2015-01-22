@@ -1,0 +1,5 @@
+INDEX VERSION 1.127
+/Users/hongbotian/git/365days/2015/0118/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1911614954.index
+/match-ebay-taobao/src/main/java
+/Users/hongbotian/git/365days/2015/0118/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3202691439.index
+/match-ebay-taobao/src/main/java

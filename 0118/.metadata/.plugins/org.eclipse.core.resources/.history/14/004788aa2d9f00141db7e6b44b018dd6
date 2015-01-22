@@ -1,0 +1,27 @@
+package hello;
+
+import java.sql.SQLException;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.jdbc.core.JdbcTemplate;
+import org.springframework.jdbc.datasource.SimpleDriverDataSource;
+
+@ComponentScan
+@EnableAutoConfiguration
+public class Application {
+	public static void main(String[] args) throws SQLException {
+		SimpleDriverDataSource datasource = new SimpleDriverDataSource();
+		datasource.setDriver(new com.mysql.jdbc.Driver());
+		datasource.setUrl("jdbc:mysql://localhost/contactdb");
+		datasource.setUsername("root");
+		datasource.setPassword("root");
+		
+		// Instantiate a JdbcTemplate object
+		JdbcTemplate jdbcTemplate = new JdbcTemplate(datasource);
+		
+		
+		SpringApplication.run(Application.class, args);
+	}
+}

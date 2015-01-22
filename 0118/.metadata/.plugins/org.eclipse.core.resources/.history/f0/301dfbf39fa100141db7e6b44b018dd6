@@ -1,0 +1,24 @@
+package hello;
+
+public class FBGraphAPI {
+	/*
+	 * The following are one simple example of FB Graph Search
+	 */
+	
+	private int id; //id": "1201894",
+	private String firstName; //   "first_name": "Jie",
+	private Boolean gender;//    "gender": "male",
+	private String lastName;//   "last_name": "Chen",
+	private String name;//   "name": "Jie Chen",
+	private String username;//   "username": "jiechen"
+	private String link;//   "link": "https://www.facebook.com/jiechen",
+	private String website;//"website": "http://www.huawei.com",
+	private String category;//   "category": "Local business",
+	private String locale;//   "locale": "en_GB",
+	private String location;//location
+	private String description;//"description"
+	private String about;//"about": "Welcome to the official Facebook page for Huawei: Enriching life and improving efficiency through a better connected world.",
+	
+	
+
+}

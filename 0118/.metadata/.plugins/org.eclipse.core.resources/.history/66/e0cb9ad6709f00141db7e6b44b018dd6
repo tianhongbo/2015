@@ -1,0 +1,58 @@
+package hello;
+
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.util.List;
+
+import org.springframework.context.annotation.Configuration;
+import org.springframework.jdbc.core.JdbcTemplate;
+import org.springframework.jdbc.core.RowMapper;
+import org.springframework.jdbc.datasource.SimpleDriverDataSource;
+import org.springframework.stereotype.Component;
+
+@Component
+public class MySQLConnection {
+	
+	public JdbcTemplate getMySQLConnection() throws SQLException {
+		
+		
+		SimpleDriverDataSource datasource = new SimpleDriverDataSource();
+		datasource.setDriver(new com.mysql.jdbc.Driver());
+		datasource.setUrl("jdbc:mysql://localhost/contactdb");
+		datasource.setUsername("root");
+		datasource.setPassword("root");
+		
+		// Instantiate a JdbcTemplate object
+		JdbcTemplate jdbcTemplate = new JdbcTemplate(datasource);
+		
+		return jdbcTemplate;
+	}
+}
+/*		
+		// Insert one record in the database
+		String sqlInsert = "INSERT INTO contact (name, email, address, telephone)" + " VALUES (?, ?, ?, ?)";
+		jdbcTemplate.update(sqlInsert,"Eva", "eva@gmail.com", "4192 Cristoabl Way", "408-859-0668");
+		
+		System.out.println("Insert successfully! " + sqlInsert);
+		
+		String sqlQuery = "SELECT * FROM contact";
+		List<Contact> listContact = jdbcTemplate.query(sqlQuery, new RowMapper<Contact>() {
+			@Override
+			public Contact mapRow(ResultSet result, int rowNum) throws SQLException {
+				Contact contact = new Contact();
+				contact.setName(result.getString("name"));
+				contact.setEmail(result.getString("email"));
+				contact.setAddress(result.getString("address"));
+				contact.setTelephone(result.getString("telephone"));
+				
+				return contact;
+			}
+		});
+		
+		// Output the result
+		for(Contact aContact: listContact) {
+			System.out.println(aContact);
+		}
+	}
+*/
+

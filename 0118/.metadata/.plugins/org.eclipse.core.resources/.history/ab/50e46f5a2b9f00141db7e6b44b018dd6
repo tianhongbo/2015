@@ -1,0 +1,17 @@
+package hello;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.jdbc.datasource.SimpleDriverDataSource;
+
+@ComponentScan
+@EnableAutoConfiguration
+public class Application {
+	public static void main(String[] args) {
+		SimpleDriverDataSource datasource = new SimpleDriverDataSource();
+		datasource.setDriver(new com.mysql.jdbc.Driver());
+		
+		SpringApplication.run(Application.class, args);
+	}
+}

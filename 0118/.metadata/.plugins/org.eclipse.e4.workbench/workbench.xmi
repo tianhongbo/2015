@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_HXg_kZ4REeS85YQ27gyvLg" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_HXg_kp4REeS85YQ27gyvLg" bindingContexts="_HXhmoZ4REeS85YQ27gyvLg">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;GreetingController.java&quot; tooltip=&quot;match-ebay-taobao/src/main/java/hello/GreetingController.java&quot;>&#xA;&lt;persistable path=&quot;/match-ebay-taobao/src/main/java/hello/GreetingController.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;greeting.html&quot; tooltip=&quot;match-ebay-taobao/src/main/resources/templates/greeting.html&quot;>&#xA;&lt;persistable path=&quot;/match-ebay-taobao/src/main/resources/templates/greeting.html&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Application.java&quot; tooltip=&quot;match-ebay-taobao/src/main/java/hello/Application.java&quot;>&#xA;&lt;persistable path=&quot;/match-ebay-taobao/src/main/java/hello/Application.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;match-ebay-taobao/pom.xml&quot;>&#xA;&lt;persistable path=&quot;/match-ebay-taobao/pom.xml&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;FBGraphAPI.java&quot; tooltip=&quot;match-ebay-taobao/src/main/java/hello/FBGraphAPI.java&quot;>&#xA;&lt;persistable path=&quot;/match-ebay-taobao/src/main/java/hello/FBGraphAPI.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;fbitem.html&quot; tooltip=&quot;match-ebay-taobao/src/main/resources/templates/fbitem.html&quot;>&#xA;&lt;persistable path=&quot;/match-ebay-taobao/src/main/resources/templates/fbitem.html&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;GreetingController.java&quot; tooltip=&quot;match-ebay-taobao/src/main/java/hello/GreetingController.java&quot;>&#xA;&lt;persistable path=&quot;/match-ebay-taobao/src/main/java/hello/GreetingController.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;fbquery.html&quot; tooltip=&quot;match-ebay-taobao/src/main/resources/templates/fbquery.html&quot;>&#xA;&lt;persistable path=&quot;/match-ebay-taobao/src/main/resources/templates/fbquery.html&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;result.html&quot; tooltip=&quot;match-ebay-taobao/src/main/resources/templates/result.html&quot;>&#xA;&lt;persistable path=&quot;/match-ebay-taobao/src/main/resources/templates/result.html&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;greeting.html&quot; tooltip=&quot;match-ebay-taobao/src/main/resources/templates/greeting.html&quot;>&#xA;&lt;persistable path=&quot;/match-ebay-taobao/src/main/resources/templates/greeting.html&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ConfigApplication.java&quot; tooltip=&quot;match-ebay-taobao/src/main/java/hello/ConfigApplication.java&quot;>&#xA;&lt;persistable path=&quot;/match-ebay-taobao/src/main/java/hello/ConfigApplication.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ContactDAO.java&quot; tooltip=&quot;match-ebay-taobao/src/main/java/hello/ContactDAO.java&quot;>&#xA;&lt;persistable path=&quot;/match-ebay-taobao/src/main/java/hello/ContactDAO.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;match-ebay-taobao/pom.xml&quot;>&#xA;&lt;persistable path=&quot;/match-ebay-taobao/pom.xml&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ContactDAOImpl.java&quot; tooltip=&quot;match-ebay-taobao/src/main/java/hello/ContactDAOImpl.java&quot;>&#xA;&lt;persistable path=&quot;/match-ebay-taobao/src/main/java/hello/ContactDAOImpl.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;home.html&quot; tooltip=&quot;match-ebay-taobao/src/main/resources/templates/home.html&quot;>&#xA;&lt;persistable path=&quot;/match-ebay-taobao/src/main/resources/templates/home.html&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jst.jsp.core.jspsource.source&quot; name=&quot;home.jsp&quot; tooltip=&quot;match-ebay-taobao/src/main/resources/templates/home.jsp&quot;>&#xA;&lt;persistable path=&quot;/match-ebay-taobao/src/main/resources/templates/home.jsp&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Application.java&quot; tooltip=&quot;match-ebay-taobao/src/main/java/hello/Application.java&quot;>&#xA;&lt;persistable path=&quot;/match-ebay-taobao/src/main/java/hello/Application.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MySQLConnection.java&quot; tooltip=&quot;match-ebay-taobao/src/main/java/hello/MySQLConnection.java&quot;>&#xA;&lt;persistable path=&quot;/match-ebay-taobao/src/main/java/hello/MySQLConnection.java&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_HXg_kp4REeS85YQ27gyvLg" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_IAo1Ep4REeS85YQ27gyvLg" label="%trimmedwindow.label.eclipseSDK" x="21" y="57" width="1024" height="768">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_HXg_kp4REeS85YQ27gyvLg" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_IAo1Ep4REeS85YQ27gyvLg" label="%trimmedwindow.label.eclipseSDK" x="76" y="49" width="1276" height="768">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="workingSets" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workingSets/>"/>
-    <persistedState key="aggregateWorkingSetId"/>
+    <persistedState key="aggregateWorkingSetId" value="Aggregate for window 1421596009248"/>
     <tags>topLevel</tags>
     <children xsi:type="basic:PartSashContainer" xmi:id="_IAo1Ep4REeS85YQ27gyvLg" selectedElement="_IApcIJ4REeS85YQ27gyvLg" horizontal="true">
       <children xsi:type="advanced:PerspectiveStack" xmi:id="_IApcIJ4REeS85YQ27gyvLg" elementId="org.eclipse.ui.ide.perspectivestack" containerData="7500" selectedElement="_IUp9QJ4REeS85YQ27gyvLg">
@@ -74,10 +74,10 @@
               <children xsi:type="advanced:Placeholder" xmi:id="_IUp9RZ4REeS85YQ27gyvLg" elementId="org.eclipse.jdt.ui.TypeHierarchy" toBeRendered="false" ref="_ISQJgJ4REeS85YQ27gyvLg"/>
               <children xsi:type="advanced:Placeholder" xmi:id="_IUp9Rp4REeS85YQ27gyvLg" elementId="org.eclipse.jdt.ui.PackagesView" toBeRendered="false" ref="_IUgzUJ4REeS85YQ27gyvLg"/>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_IUp9R54REeS85YQ27gyvLg" containerData="6876" selectedElement="_IUp9SJ4REeS85YQ27gyvLg">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_IUp9R54REeS85YQ27gyvLg" containerData="6876" selectedElement="_IUp9TZ4REeS85YQ27gyvLg">
               <children xsi:type="basic:PartSashContainer" xmi:id="_IUp9SJ4REeS85YQ27gyvLg" containerData="7000" selectedElement="_IUp9SZ4REeS85YQ27gyvLg" horizontal="true">
-                <children xsi:type="advanced:Placeholder" xmi:id="_IUp9SZ4REeS85YQ27gyvLg" elementId="org.eclipse.ui.editorss" containerData="8221" ref="_IRxBUJ4REeS85YQ27gyvLg"/>
-                <children xsi:type="basic:PartStack" xmi:id="_IUp9Sp4REeS85YQ27gyvLg" elementId="topRight" containerData="1779" selectedElement="_IUp9S54REeS85YQ27gyvLg">
+                <children xsi:type="advanced:Placeholder" xmi:id="_IUp9SZ4REeS85YQ27gyvLg" elementId="org.eclipse.ui.editorss" containerData="8824" ref="_IRxBUJ4REeS85YQ27gyvLg"/>
+                <children xsi:type="basic:PartStack" xmi:id="_IUp9Sp4REeS85YQ27gyvLg" elementId="topRight" containerData="1176" selectedElement="_IUp9S54REeS85YQ27gyvLg">
                   <tags>newtablook</tags>
                   <children xsi:type="advanced:Placeholder" xmi:id="_IUp9S54REeS85YQ27gyvLg" elementId="org.eclipse.ui.views.ContentOutline" ref="_IUm58Z4REeS85YQ27gyvLg"/>
                   <children xsi:type="advanced:Placeholder" xmi:id="_IUp9TJ4REeS85YQ27gyvLg" elementId="org.eclipse.mylyn.tasks.ui.views.tasks" ref="_IUnhAJ4REeS85YQ27gyvLg"/>
@@ -85,6 +85,7 @@
               </children>
               <children xsi:type="basic:PartStack" xmi:id="_IUp9TZ4REeS85YQ27gyvLg" elementId="bottomRight" containerData="3000" selectedElement="_IUp9VZ4REeS85YQ27gyvLg">
                 <tags>newtablook</tags>
+                <tags>active</tags>
                 <children xsi:type="advanced:Placeholder" xmi:id="_IUp9Tp4REeS85YQ27gyvLg" elementId="org.eclipse.ui.views.AllMarkersView" ref="_IUhaYJ4REeS85YQ27gyvLg"/>
                 <children xsi:type="advanced:Placeholder" xmi:id="_IUp9T54REeS85YQ27gyvLg" elementId="org.eclipse.ui.views.PropertySheet" ref="_IUiogJ4REeS85YQ27gyvLg"/>
                 <children xsi:type="advanced:Placeholder" xmi:id="_IUp9UJ4REeS85YQ27gyvLg" elementId="org.eclipse.wst.server.ui.ServersView" ref="_IUj2oJ4REeS85YQ27gyvLg"/>
@@ -125,13 +126,12 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_IRxBUJ4REeS85YQ27gyvLg" elementId="org.eclipse.ui.editorss" selectedElement="_IRxBUZ4REeS85YQ27gyvLg">
-      <children xsi:type="basic:PartStack" xmi:id="_IRxBUZ4REeS85YQ27gyvLg" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_twWbUJ4UEeS85YQ27gyvLg">
+      <children xsi:type="basic:PartStack" xmi:id="_IRxBUZ4REeS85YQ27gyvLg" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_o7w8MKGcEeS9vas9mFwplA">
         <tags>newtablook</tags>
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
-        <tags>active</tags>
         <children xsi:type="basic:Part" xmi:id="_03hkQJ4SEeS85YQ27gyvLg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Application.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Application.java&quot; partName=&quot;Application.java&quot; title=&quot;Application.java&quot; tooltip=&quot;match-ebay-taobao/src/main/java/hello/Application.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/match-ebay-taobao/src/main/java/hello/Application.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Application.java&quot; partName=&quot;Application.java&quot; title=&quot;Application.java&quot; tooltip=&quot;match-ebay-taobao/src/main/java/hello/Application.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/match-ebay-taobao/src/main/java/hello/Application.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;901&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
@@ -143,23 +143,93 @@
           <tags>removeOnHide</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_giZMQJ4UEeS85YQ27gyvLg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="greeting.html" iconURI="platform:/plugin/org.eclipse.wst.html.ui/icons/full/obj16/sourceEditor.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;greeting.html&quot; partName=&quot;greeting.html&quot; title=&quot;greeting.html&quot; tooltip=&quot;match-ebay-taobao/src/main/resources/templates/greeting.html&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/match-ebay-taobao/src/main/resources/templates/greeting.html&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;567&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;greeting.html&quot; partName=&quot;greeting.html&quot; title=&quot;greeting.html&quot; tooltip=&quot;match-ebay-taobao/src/main/resources/templates/greeting.html&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/match-ebay-taobao/src/main/resources/templates/greeting.html&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;795&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.wst.html.core.htmlsource.source</tags>
           <tags>removeOnHide</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_twWbUJ4UEeS85YQ27gyvLg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="GreetingController.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;GreetingController.java&quot; partName=&quot;GreetingController.java&quot; title=&quot;GreetingController.java&quot; tooltip=&quot;match-ebay-taobao/src/main/java/hello/GreetingController.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/match-ebay-taobao/src/main/java/hello/GreetingController.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;879&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;GreetingController.java&quot; partName=&quot;GreetingController.java&quot; title=&quot;GreetingController.java&quot; tooltip=&quot;match-ebay-taobao/src/main/java/hello/GreetingController.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/match-ebay-taobao/src/main/java/hello/GreetingController.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;2246&quot; selectionTopPixel=&quot;539&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
-          <tags>active</tags>
-          <tags>activeOnClose</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_cLCtoJ8pEeS9vas9mFwplA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="match-ebay-taobao/pom.xml" iconURI="platform:/plugin/org.eclipse.m2e.editor/icons/editor-pom.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; partName=&quot;match-ebay-taobao/pom.xml&quot; title=&quot;match-ebay-taobao/pom.xml&quot; tooltip=&quot;match-ebay-taobao/pom.xml&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/match-ebay-taobao/pom.xml&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.m2e.editor.MavenPomEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_b73P4J8uEeS9vas9mFwplA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Contact.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Contact.java&quot; partName=&quot;Contact.java&quot; title=&quot;Contact.java&quot; tooltip=&quot;match-ebay-taobao/src/main/java/hello/Contact.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/match-ebay-taobao/src/main/java/hello/Contact.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;7&quot; selectionOffset=&quot;29&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_rhHrgJ9EEeS9vas9mFwplA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="result.html" iconURI="platform:/plugin/org.eclipse.wst.html.ui/icons/full/obj16/sourceEditor.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;result.html&quot; partName=&quot;result.html&quot; title=&quot;result.html&quot; tooltip=&quot;match-ebay-taobao/src/main/resources/templates/result.html&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/match-ebay-taobao/src/main/resources/templates/result.html&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;582&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.wst.html.core.htmlsource.source</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_wlXBoJ9pEeS9vas9mFwplA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="ConfigApplication.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ConfigApplication.java&quot; partName=&quot;ConfigApplication.java&quot; title=&quot;ConfigApplication.java&quot; tooltip=&quot;match-ebay-taobao/src/main/java/hello/ConfigApplication.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/match-ebay-taobao/src/main/java/hello/ConfigApplication.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1456&quot; selectionTopPixel=&quot;262&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_ZmxeoJ9sEeS9vas9mFwplA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="MySQLConnection.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MySQLConnection.java&quot; partName=&quot;MySQLConnection.java&quot; title=&quot;MySQLConnection.java&quot; tooltip=&quot;match-ebay-taobao/src/main/java/hello/MySQLConnection.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/match-ebay-taobao/src/main/java/hello/MySQLConnection.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;18&quot; selectionOffset=&quot;676&quot; selectionTopPixel=&quot;19&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_WeAPgJ9vEeS9vas9mFwplA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Config.xml" iconURI="platform:/plugin/org.eclipse.wst.xml.ui/icons/xmldoc.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart&quot; name=&quot;Config.xml&quot; partName=&quot;Config.xml&quot; title=&quot;Config.xml&quot; tooltip=&quot;match-ebay-taobao/src/main/java/Config.xml&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/match-ebay-taobao/src/main/java/Config.xml&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;406&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_hSm7YJ-MEeS9vas9mFwplA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="ContactDAO.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ContactDAO.java&quot; partName=&quot;ContactDAO.java&quot; title=&quot;ContactDAO.java&quot; tooltip=&quot;match-ebay-taobao/src/main/java/hello/ContactDAO.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/match-ebay-taobao/src/main/java/hello/ContactDAO.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;119&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_EqSaoJ-NEeS9vas9mFwplA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="ContactDAOImpl.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ContactDAOImpl.java&quot; partName=&quot;ContactDAOImpl.java&quot; title=&quot;ContactDAOImpl.java&quot; tooltip=&quot;match-ebay-taobao/src/main/java/hello/ContactDAOImpl.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/match-ebay-taobao/src/main/java/hello/ContactDAOImpl.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;2127&quot; selectionTopPixel=&quot;584&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_TcObkJ-mEeS9vas9mFwplA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="home.html" iconURI="platform:/plugin/org.eclipse.wst.html.ui/icons/full/obj16/sourceEditor.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;home.html&quot; partName=&quot;home.html&quot; title=&quot;home.html&quot; tooltip=&quot;match-ebay-taobao/src/main/resources/templates/home.html&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/match-ebay-taobao/src/main/resources/templates/home.html&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;874&quot; selectionTopPixel=&quot;171&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.wst.html.core.htmlsource.source</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_o7w8MKGcEeS9vas9mFwplA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="FBGraphAPI.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;FBGraphAPI.java&quot; partName=&quot;FBGraphAPI.java&quot; title=&quot;FBGraphAPI.java&quot; tooltip=&quot;match-ebay-taobao/src/main/java/hello/FBGraphAPI.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/match-ebay-taobao/src/main/java/hello/FBGraphAPI.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;227&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_W9s6gKGkEeS9vas9mFwplA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="fbquery.html" iconURI="platform:/plugin/org.eclipse.wst.html.ui/icons/full/obj16/sourceEditor.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;fbquery.html&quot; partName=&quot;fbquery.html&quot; title=&quot;fbquery.html&quot; tooltip=&quot;match-ebay-taobao/src/main/resources/templates/fbquery.html&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/match-ebay-taobao/src/main/resources/templates/fbquery.html&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;393&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.wst.html.core.htmlsource.source</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_w3mQsKGkEeS9vas9mFwplA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="fbitem.html" iconURI="platform:/plugin/org.eclipse.wst.html.ui/icons/full/obj16/sourceEditor.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;fbitem.html&quot; partName=&quot;fbitem.html&quot; title=&quot;fbitem.html&quot; tooltip=&quot;match-ebay-taobao/src/main/resources/templates/fbitem.html&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/match-ebay-taobao/src/main/resources/templates/fbitem.html&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;306&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.wst.html.core.htmlsource.source</tags>
+          <tags>removeOnHide</tags>
         </children>
       </children>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_ISNtQJ4REeS85YQ27gyvLg" elementId="org.eclipse.ui.navigator.ProjectExplorer" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Project Explorer" iconURI="platform:/plugin/org.eclipse.ui.navigator.resources/icons/full/eview16/resource_persp.gif" closeable="true">
-      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;/>"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; currentWorkingSetName=&quot;Aggregate for window 1421596009248&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;/>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
       <menus xmi:id="_IYmpIJ4REeS85YQ27gyvLg" elementId="org.eclipse.ui.navigator.ProjectExplorer">
@@ -218,6 +288,8 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;view/>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
+      <tags>active</tags>
+      <tags>activeOnClose</tags>
       <menus xmi:id="_WMcsIJ4UEeS85YQ27gyvLg" elementId="org.eclipse.ui.console.ConsoleView">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -257,7 +329,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_IEYsoJ4REeS85YQ27gyvLg" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_IEeMMJ4REeS85YQ27gyvLg" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_HY6Gyp4REeS85YQ27gyvLg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_MVNdYJ8pEeS9vas9mFwplA" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_HY6Gyp4REeS85YQ27gyvLg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_IEYsoZ4REeS85YQ27gyvLg" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -287,7 +359,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_IEZTsJ4REeS85YQ27gyvLg" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_IEjrwp4REeS85YQ27gyvLg" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_HYzZGZ4REeS85YQ27gyvLg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_MVULEJ8pEeS9vas9mFwplA" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_HYzZGZ4REeS85YQ27gyvLg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_IEZTsZ4REeS85YQ27gyvLg" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -321,9 +393,19 @@
         <tags>Draggable</tags>
       </children>
     </trimBars>
-    <trimBars xmi:id="_IPfwcJ4REeS85YQ27gyvLg" elementId="org.eclipse.ui.trim.vertical1" side="Left"/>
+    <trimBars xmi:id="_IPfwcJ4REeS85YQ27gyvLg" elementId="org.eclipse.ui.trim.vertical1" toBeRendered="false" side="Left">
+      <children xsi:type="menu:ToolControl" xmi:id="_oZjqMJ8vEeS9vas9mFwplA" elementId="topLeft(org.eclipse.jst.j2ee.J2EEPerspective)" toBeRendered="false" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
+        <tags>TrimStack</tags>
+      </children>
+    </trimBars>
     <trimBars xmi:id="_IPgXgJ4REeS85YQ27gyvLg" elementId="org.eclipse.ui.trim.vertical2" toBeRendered="false" side="Right">
       <children xsi:type="menu:ToolControl" xmi:id="_Io6WAJ4REeS85YQ27gyvLg" elementId="org.eclipse.ui.ide.perspectivestack(minimized)" toBeRendered="false" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
+        <tags>TrimStack</tags>
+      </children>
+      <children xsi:type="menu:ToolControl" xmi:id="_oZ0I4J8vEeS9vas9mFwplA" elementId="topRight(org.eclipse.jst.j2ee.J2EEPerspective)" toBeRendered="false" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
+        <tags>TrimStack</tags>
+      </children>
+      <children xsi:type="menu:ToolControl" xmi:id="_oZ_vEJ8vEeS9vas9mFwplA" elementId="org.eclipse.ui.editorss(org.eclipse.jst.j2ee.J2EEPerspective)" toBeRendered="false" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
         <tags>TrimStack</tags>
       </children>
     </trimBars>
@@ -626,7 +708,7 @@
     </bindings>
     <bindings xmi:id="_HbdEYZ4REeS85YQ27gyvLg" keySequence="ALT+CTRL+H" command="_HYpoF54REeS85YQ27gyvLg"/>
     <bindings xmi:id="_HbdrcZ4REeS85YQ27gyvLg" keySequence="ALT+COMMAND+SHIFT+ARROW_DOWN" command="_HY779Z4REeS85YQ27gyvLg"/>
-    <bindings xmi:id="_HbwmYZ4REeS85YQ27gyvLg" keySequence="COMMAND+CTRL+F" command="_Hbv_Up4REeS85YQ27gyvLg"/>
+    <bindings xmi:id="_LpwFkZ8pEeS9vas9mFwplA" keySequence="COMMAND+CTRL+F" command="_Hbv_Up4REeS85YQ27gyvLg"/>
   </bindingTables>
   <bindingTables xmi:id="_HaFLYp4REeS85YQ27gyvLg" elementId="org.eclipse.ui.textEditorScope" bindingContext="_HZDQp54REeS85YQ27gyvLg">
     <bindings xmi:id="_HaFycJ4REeS85YQ27gyvLg" keySequence="COMMAND+SHIFT+NUMPAD_MULTIPLY" command="_HY0AFp4REeS85YQ27gyvLg"/>
@@ -1063,7 +1145,7 @@
     <bindings xmi:id="_HbcdVJ4REeS85YQ27gyvLg" keySequence="CTRL+D" command="_HYsrWZ4REeS85YQ27gyvLg"/>
   </bindingTables>
   <bindingTables xmi:id="_HbxNc54REeS85YQ27gyvLg" contributorURI="platform:/fragment/org.eclipse.e4.ui.workbench.renderers.swt.cocoa" bindingContext="_HXhmpJ4REeS85YQ27gyvLg">
-    <bindings xmi:id="_HbxNdJ4REeS85YQ27gyvLg" keySequence="M1+W" command="_HbxNcZ4REeS85YQ27gyvLg"/>
+    <bindings xmi:id="_LpxTsJ8pEeS9vas9mFwplA" keySequence="M1+W" command="_HbxNcZ4REeS85YQ27gyvLg"/>
   </bindingTables>
   <bindingTables xmi:id="_IRy2gZ4REeS85YQ27gyvLg" bindingContext="_IRy2gJ4REeS85YQ27gyvLg"/>
   <bindingTables xmi:id="_IRy2g54REeS85YQ27gyvLg" bindingContext="_IRy2gp4REeS85YQ27gyvLg"/>
