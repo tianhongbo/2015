@@ -1,0 +1,265 @@
+!SESSION 2015-02-08 10:55:21.307 -----------------------------------------------
+eclipse.buildId=4.4.1.M20140925-0400
+java.version=1.7.0_71
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/hongbotian/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/hongbotian/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.m2e.logback.configuration 2 0 2015-02-08 10:55:30.213
+!MESSAGE Exception while setting up logging:org.eclipse.osgi.internal.framework.EquinoxConfiguration$1 cannot be cast to java.lang.String
+!STACK 0
+java.lang.ClassCastException: org.eclipse.osgi.internal.framework.EquinoxConfiguration$1 cannot be cast to java.lang.String
+	at org.eclipse.m2e.logback.configuration.LogHelper.logJavaProperties(LogHelper.java:26)
+	at org.eclipse.m2e.logback.configuration.LogPlugin.loadConfiguration(LogPlugin.java:189)
+	at org.eclipse.m2e.logback.configuration.LogPlugin.configureLogback(LogPlugin.java:144)
+	at org.eclipse.m2e.logback.configuration.LogPlugin.access$2(LogPlugin.java:107)
+	at org.eclipse.m2e.logback.configuration.LogPlugin$1.run(LogPlugin.java:62)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+
+!ENTRY org.eclipse.core.net 1 0 2015-02-08 10:55:33.768
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2015-02-08 11:06:25.446 -----------------------------------------------
+eclipse.buildId=4.4.1.M20140925-0400
+java.version=1.7.0_71
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/hongbotian/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/hongbotian/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.m2e.logback.configuration 2 0 2015-02-08 11:06:41.527
+!MESSAGE Exception while setting up logging:org.eclipse.osgi.internal.framework.EquinoxConfiguration$1 cannot be cast to java.lang.String
+!STACK 0
+java.lang.ClassCastException: org.eclipse.osgi.internal.framework.EquinoxConfiguration$1 cannot be cast to java.lang.String
+	at org.eclipse.m2e.logback.configuration.LogHelper.logJavaProperties(LogHelper.java:26)
+	at org.eclipse.m2e.logback.configuration.LogPlugin.loadConfiguration(LogPlugin.java:189)
+	at org.eclipse.m2e.logback.configuration.LogPlugin.configureLogback(LogPlugin.java:144)
+	at org.eclipse.m2e.logback.configuration.LogPlugin.access$2(LogPlugin.java:107)
+	at org.eclipse.m2e.logback.configuration.LogPlugin$1.run(LogPlugin.java:62)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+
+!ENTRY org.eclipse.core.net 1 0 2015-02-08 11:06:44.884
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.jface 2 0 2015-02-08 11:06:45.606
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-02-08 11:06:45.606
+!MESSAGE A conflict occurred for ALT+COMMAND+C:
+Binding(ALT+COMMAND+C,
+	ParameterizedCommand(Command(de.bastiankrol.startexplorer.copyResourcePathToClipboardFromResourceView,Copy Resource Path to Clipboard,
+		Copies the path of the resource to the clipboard,
+		Category(de.bastiankrol.startexplorer.commands.category,StartExplorer,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1bbcf187,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+COMMAND+C,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.modify.method.parameters,Change Method Signature,
+		Change method signature includes parameter names and parameter order,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1194e44b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+
+!ENTRY org.nodeclipse.ui 1 0 2015-02-08 11:08:28.449
+!MESSAGE RelativityFileSystemStructureProvider.cllectFiles() called. file count=7
+
+!ENTRY org.nodeclipse.ui 1 0 2015-02-08 11:08:28.455
+!MESSAGE RelativityFileSystemStructureProvider.getContents() called. elemnt=/var/folders/9r/n0fyqgt96pxb8txxzyyzm9y80000gn/T/express-work/1423422508339/lab1/app.js
+
+!ENTRY org.nodeclipse.ui 1 0 2015-02-08 11:08:28.459
+!MESSAGE RelativityFileSystemStructureProvider.getContents() called. elemnt=/var/folders/9r/n0fyqgt96pxb8txxzyyzm9y80000gn/T/express-work/1423422508339/lab1/package.json
+
+!ENTRY org.nodeclipse.ui 1 0 2015-02-08 11:08:28.463
+!MESSAGE RelativityFileSystemStructureProvider.getContents() called. elemnt=/var/folders/9r/n0fyqgt96pxb8txxzyyzm9y80000gn/T/express-work/1423422508339/lab1/public/stylesheets/style.css
+
+!ENTRY org.nodeclipse.ui 1 0 2015-02-08 11:08:28.464
+!MESSAGE RelativityFileSystemStructureProvider.getContents() called. elemnt=/var/folders/9r/n0fyqgt96pxb8txxzyyzm9y80000gn/T/express-work/1423422508339/lab1/routes/index.js
+
+!ENTRY org.nodeclipse.ui 1 0 2015-02-08 11:08:28.465
+!MESSAGE RelativityFileSystemStructureProvider.getContents() called. elemnt=/var/folders/9r/n0fyqgt96pxb8txxzyyzm9y80000gn/T/express-work/1423422508339/lab1/routes/user.js
+
+!ENTRY org.nodeclipse.ui 1 0 2015-02-08 11:08:28.467
+!MESSAGE RelativityFileSystemStructureProvider.getContents() called. elemnt=/var/folders/9r/n0fyqgt96pxb8txxzyyzm9y80000gn/T/express-work/1423422508339/lab1/views/index.jade
+
+!ENTRY org.nodeclipse.ui 1 0 2015-02-08 11:08:28.468
+!MESSAGE RelativityFileSystemStructureProvider.getContents() called. elemnt=/var/folders/9r/n0fyqgt96pxb8txxzyyzm9y80000gn/T/express-work/1423422508339/lab1/views/layout.jade
+
+!ENTRY org.nodeclipse.ui 1 0 2015-02-08 11:08:29.296
+!MESSAGE templateRoot: /Applications/eclipse/configuration/org.eclipse.osgi/902/0/.cp/templates/common-templates
+
+!ENTRY org.nodeclipse.ui 1 0 2015-02-08 11:08:29.299
+!MESSAGE RelativityFileSystemStructureProvider.getContents() called. elemnt=/Applications/eclipse/configuration/org.eclipse.osgi/902/0/.cp/templates/common-templates/.jshintrc
+
+!ENTRY org.nodeclipse.ui 1 0 2015-02-08 11:08:29.303
+!MESSAGE RelativityFileSystemStructureProvider.getContents() called. elemnt=/Applications/eclipse/configuration/org.eclipse.osgi/902/0/.cp/templates/common-templates/.settings/.jsdtscope
+
+!ENTRY org.nodeclipse.ui 1 0 2015-02-08 11:08:29.304
+!MESSAGE RelativityFileSystemStructureProvider.getContents() called. elemnt=/Applications/eclipse/configuration/org.eclipse.osgi/902/0/.cp/templates/common-templates/.settings/com.eclipsesource.jshint.ui.prefs
+
+!ENTRY org.eclipse.debug.ui 4 120 2015-02-08 11:08:30.059
+!MESSAGE org.eclipse.debug.ui.toggleBreakpointsTargetFactory extension failed to load breakpoint toggle target because the specified id is already registered.  Specified ID is: org.chromium.debug.ui.ChromiumToggleBreakpointTargetFactory
+
+!ENTRY org.nodeclipse.ui 1 0 2015-02-08 11:08:31.945
+!MESSAGE RelativityFileSystemStructureProvider.getContents() called. elemnt=/Applications/eclipse/configuration/org.eclipse.osgi/902/0/.cp/templates/common-templates/.settings/org.eclipse.wst.jsdt.core.prefs
+
+!ENTRY org.nodeclipse.ui 1 0 2015-02-08 11:08:31.954
+!MESSAGE RelativityFileSystemStructureProvider.getContents() called. elemnt=/Applications/eclipse/configuration/org.eclipse.osgi/902/0/.cp/templates/common-templates/.settings/org.eclipse.wst.jsdt.ui.superType.container
+
+!ENTRY org.nodeclipse.ui 1 0 2015-02-08 11:08:31.956
+!MESSAGE RelativityFileSystemStructureProvider.getContents() called. elemnt=/Applications/eclipse/configuration/org.eclipse.osgi/902/0/.cp/templates/common-templates/.settings/org.eclipse.wst.jsdt.ui.superType.name
+
+!ENTRY org.nodeclipse.ui 1 0 2015-02-08 11:08:31.957
+!MESSAGE RelativityFileSystemStructureProvider.getContents() called. elemnt=/Applications/eclipse/configuration/org.eclipse.osgi/902/0/.cp/templates/common-templates/README.md
+
+!ENTRY org.nodeclipse.ui 1 0 2015-02-08 11:08:32.001
+!MESSAGE templateRoot: /Applications/eclipse/configuration/org.eclipse.osgi/902/0/.cp/templates/tern-node
+
+!ENTRY org.nodeclipse.ui 1 0 2015-02-08 11:08:32.002
+!MESSAGE RelativityFileSystemStructureProvider.getContents() called. elemnt=/Applications/eclipse/configuration/org.eclipse.osgi/902/0/.cp/templates/tern-node/.tern-project
+
+!ENTRY org.eclipse.jface 2 0 2015-02-08 11:08:53.161
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-02-08 11:08:53.161
+!MESSAGE A conflict occurred for COMMAND+D:
+Binding(COMMAND+D,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.text.delete.line,Delete Line,
+		Delete a line of text,
+		Category(org.eclipse.ui.category.textEditor,Text Editing,Text Editing Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@70b30156,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(COMMAND+D,
+	ParameterizedCommand(Command(io.emmet.eclipse.commands.match_pair_outward,Match Pair Outward,
+		,
+		Category(io.emmet.eclipse.commands.category,Emmet,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@781ceee7,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY jdt.spelling 4 0 2015-02-08 11:53:53.672
+!MESSAGE Internal error 
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource '/lab1/app.js' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:341)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:215)
+	at org.eclipse.core.internal.resources.Resource.deleteMarkers(Resource.java:846)
+	at jdt.spelling.marker.MarkerFactory.clear(MarkerFactory.java:68)
+	at jdt.spelling.processor.Processor.prepare(Processor.java:40)
+	at jdt.spelling.processor.Processor.access$0(Processor.java:39)
+	at jdt.spelling.processor.Processor$2.run(Processor.java:48)
+	at jdt.spelling.marker.MarkerJob.runInWorkspace(MarkerJob.java:29)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2015-02-08 11:53:53.673
+!MESSAGE Resource '/lab1/app.js' does not exist.
+
+!ENTRY jdt.spelling 4 0 2015-02-08 11:53:53.839
+!MESSAGE Internal error 
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource '/lab1/views/index.jade' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:341)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:215)
+	at org.eclipse.core.internal.resources.Resource.deleteMarkers(Resource.java:846)
+	at jdt.spelling.marker.MarkerFactory.clear(MarkerFactory.java:68)
+	at jdt.spelling.processor.Processor.prepare(Processor.java:40)
+	at jdt.spelling.processor.Processor.access$0(Processor.java:39)
+	at jdt.spelling.processor.Processor$2.run(Processor.java:48)
+	at jdt.spelling.marker.MarkerJob.runInWorkspace(MarkerJob.java:29)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2015-02-08 11:53:53.839
+!MESSAGE Resource '/lab1/views/index.jade' does not exist.
+
+!ENTRY jdt.spelling 4 0 2015-02-08 11:53:53.904
+!MESSAGE Internal error 
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource '/lab1/views/layout.jade' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:341)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:215)
+	at org.eclipse.core.internal.resources.Resource.deleteMarkers(Resource.java:846)
+	at jdt.spelling.marker.MarkerFactory.clear(MarkerFactory.java:68)
+	at jdt.spelling.processor.Processor.prepare(Processor.java:40)
+	at jdt.spelling.processor.Processor.access$0(Processor.java:39)
+	at jdt.spelling.processor.Processor$2.run(Processor.java:48)
+	at jdt.spelling.marker.MarkerJob.runInWorkspace(MarkerJob.java:29)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2015-02-08 11:53:53.904
+!MESSAGE Resource '/lab1/views/layout.jade' does not exist.
+
+!ENTRY jdt.spelling 4 0 2015-02-08 11:53:54.038
+!MESSAGE Internal error 
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource '/lab1/routes/user.js' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:341)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:215)
+	at org.eclipse.core.internal.resources.Resource.deleteMarkers(Resource.java:846)
+	at jdt.spelling.marker.MarkerFactory.clear(MarkerFactory.java:68)
+	at jdt.spelling.processor.Processor.prepare(Processor.java:40)
+	at jdt.spelling.processor.Processor.access$0(Processor.java:39)
+	at jdt.spelling.processor.Processor$2.run(Processor.java:48)
+	at jdt.spelling.marker.MarkerJob.runInWorkspace(MarkerJob.java:29)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2015-02-08 11:53:54.039
+!MESSAGE Resource '/lab1/routes/user.js' does not exist.
+
+!ENTRY org.nodeclipse.ui 1 0 2015-02-08 11:54:10.275
+!MESSAGE RelativityFileSystemStructureProvider.cllectFiles() called. file count=7
+
+!ENTRY org.nodeclipse.ui 1 0 2015-02-08 11:54:10.276
+!MESSAGE RelativityFileSystemStructureProvider.getContents() called. elemnt=/var/folders/9r/n0fyqgt96pxb8txxzyyzm9y80000gn/T/express-work/1423425250116/lab1/app.js
+
+!ENTRY org.nodeclipse.ui 1 0 2015-02-08 11:54:10.277
+!MESSAGE RelativityFileSystemStructureProvider.getContents() called. elemnt=/var/folders/9r/n0fyqgt96pxb8txxzyyzm9y80000gn/T/express-work/1423425250116/lab1/package.json
+
+!ENTRY org.nodeclipse.ui 1 0 2015-02-08 11:54:10.278
+!MESSAGE RelativityFileSystemStructureProvider.getContents() called. elemnt=/var/folders/9r/n0fyqgt96pxb8txxzyyzm9y80000gn/T/express-work/1423425250116/lab1/public/stylesheets/style.css
+
+!ENTRY org.nodeclipse.ui 1 0 2015-02-08 11:54:10.280
+!MESSAGE RelativityFileSystemStructureProvider.getContents() called. elemnt=/var/folders/9r/n0fyqgt96pxb8txxzyyzm9y80000gn/T/express-work/1423425250116/lab1/routes/index.js
+
+!ENTRY org.nodeclipse.ui 1 0 2015-02-08 11:54:10.280
+!MESSAGE RelativityFileSystemStructureProvider.getContents() called. elemnt=/var/folders/9r/n0fyqgt96pxb8txxzyyzm9y80000gn/T/express-work/1423425250116/lab1/routes/user.js
+
+!ENTRY org.nodeclipse.ui 1 0 2015-02-08 11:54:10.281
+!MESSAGE RelativityFileSystemStructureProvider.getContents() called. elemnt=/var/folders/9r/n0fyqgt96pxb8txxzyyzm9y80000gn/T/express-work/1423425250116/lab1/views/index.jade
+
+!ENTRY org.nodeclipse.ui 1 0 2015-02-08 11:54:10.283
+!MESSAGE RelativityFileSystemStructureProvider.getContents() called. elemnt=/var/folders/9r/n0fyqgt96pxb8txxzyyzm9y80000gn/T/express-work/1423425250116/lab1/views/layout.jade
+
+!ENTRY org.nodeclipse.ui 1 0 2015-02-08 11:54:10.299
+!MESSAGE templateRoot: /Applications/eclipse/configuration/org.eclipse.osgi/902/0/.cp/templates/common-templates
+
+!ENTRY org.nodeclipse.ui 1 0 2015-02-08 11:54:10.301
+!MESSAGE RelativityFileSystemStructureProvider.getContents() called. elemnt=/Applications/eclipse/configuration/org.eclipse.osgi/902/0/.cp/templates/common-templates/.jshintrc
+
+!ENTRY org.nodeclipse.ui 1 0 2015-02-08 11:54:10.303
+!MESSAGE RelativityFileSystemStructureProvider.getContents() called. elemnt=/Applications/eclipse/configuration/org.eclipse.osgi/902/0/.cp/templates/common-templates/.settings/.jsdtscope
+
+!ENTRY org.nodeclipse.ui 1 0 2015-02-08 11:54:10.305
+!MESSAGE RelativityFileSystemStructureProvider.getContents() called. elemnt=/Applications/eclipse/configuration/org.eclipse.osgi/902/0/.cp/templates/common-templates/.settings/com.eclipsesource.jshint.ui.prefs
+
+!ENTRY org.nodeclipse.ui 1 0 2015-02-08 11:54:10.311
+!MESSAGE RelativityFileSystemStructureProvider.getContents() called. elemnt=/Applications/eclipse/configuration/org.eclipse.osgi/902/0/.cp/templates/common-templates/.settings/org.eclipse.wst.jsdt.core.prefs
+
+!ENTRY org.nodeclipse.ui 1 0 2015-02-08 11:54:10.317
+!MESSAGE RelativityFileSystemStructureProvider.getContents() called. elemnt=/Applications/eclipse/configuration/org.eclipse.osgi/902/0/.cp/templates/common-templates/.settings/org.eclipse.wst.jsdt.ui.superType.container
+
+!ENTRY org.nodeclipse.ui 1 0 2015-02-08 11:54:10.319
+!MESSAGE RelativityFileSystemStructureProvider.getContents() called. elemnt=/Applications/eclipse/configuration/org.eclipse.osgi/902/0/.cp/templates/common-templates/.settings/org.eclipse.wst.jsdt.ui.superType.name
+
+!ENTRY org.nodeclipse.ui 1 0 2015-02-08 11:54:10.322
+!MESSAGE RelativityFileSystemStructureProvider.getContents() called. elemnt=/Applications/eclipse/configuration/org.eclipse.osgi/902/0/.cp/templates/common-templates/README.md
+
+!ENTRY org.nodeclipse.ui 1 0 2015-02-08 11:54:10.349
+!MESSAGE templateRoot: /Applications/eclipse/configuration/org.eclipse.osgi/902/0/.cp/templates/tern-node
+
+!ENTRY org.nodeclipse.ui 1 0 2015-02-08 11:54:10.350
+!MESSAGE RelativityFileSystemStructureProvider.getContents() called. elemnt=/Applications/eclipse/configuration/org.eclipse.osgi/902/0/.cp/templates/tern-node/.tern-project

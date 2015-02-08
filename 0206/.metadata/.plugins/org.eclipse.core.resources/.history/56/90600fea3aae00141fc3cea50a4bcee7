@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+</head>
+<body>
+<button onclick="createNewWindow()">click me!</button>
+<script type="text/javascript">
+var myWindow;
+function createNewWindow() {
+	myWindow = window.open();
+	myWindow.documation.open();
+	myWindow.documation.write("this is new window");
+	myWindow.documation.close();
+	
+}
+</script>
+</body>
+</html>

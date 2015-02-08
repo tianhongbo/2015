@@ -1,0 +1,7 @@
+extends layout
+
+block content
+  h1= title
+  p "Thank you for your watching this demo!"
+  p This demo done by Hongbo Tian (id: 010073726)
+  img(src='./views/sjsuLogo.jpeg');

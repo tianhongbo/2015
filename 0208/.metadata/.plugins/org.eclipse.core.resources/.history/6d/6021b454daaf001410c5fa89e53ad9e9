@@ -1,0 +1,7 @@
+extends layout
+
+block content
+  h1= title
+  p Welcome to #{title}
+  p This demo done by Hongbo Tian (id: 01073726)
+  <img src="sjsuLogo.jpeg" alt="SJSU Logo" height="42" width="42">

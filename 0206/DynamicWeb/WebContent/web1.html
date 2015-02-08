@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+</head>
+<body>
+<button onclick="createNewWindow()">click me!</button>
+<script type="text/javascript">
+var myWindow;
+function createNewWindow() {
+	myWindow = window.open();
+	myWindow.document.open();
+	myWindow.document.write("this is new window");
+	myWindow.document.close();
+	
+}
+</script>
+<h1> This is colum a</h1>
+<hr />
+<h1> This is    column b $&#174i  df &lt  bsp  df &gt   </h1>
+<hr />
+
+</body>
+</html>
